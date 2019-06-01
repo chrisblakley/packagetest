@@ -9,9 +9,7 @@
 	},
 	"bugs": "https://github.com/chrisblakley/packagetest/issues",
 	"dependencies": {
-		"@chrisblakley/nebula": "latest",
-		"chrisblakley/nebula": "latest",
-		"nebula": "latest",
+		"nebula-wp": "latest",
 		"workbox": ">=4.3.1",
 		"jquery": ">=3.0.0",
 		"font-awesome": ">=5.0.0",
