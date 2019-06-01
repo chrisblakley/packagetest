@@ -16,7 +16,7 @@
 		"datatables": "latest",
 		"chosen": "latest",
 		"spyc": "mustangostang/spyc",
-		"nebula": "latest",
+		"@chrisblakley/nebula": "latest",
 		"@TGMPA/TGM-Plugin-Activation": "latest",
 		"@YahnisElsts/plugin-update-checker": "latest",
 		"@matomo-org/device-detector": "latest"
