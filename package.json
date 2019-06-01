@@ -6,6 +6,7 @@
 	"repository": "github:chrisblakley/packagetest",
 	"bugs": "https://github.com/chrisblakley/packagetest/issues",
 	"dependencies": {
+		"@chrisblakley/nebula": "latest",
 		"workbox": ">=4.3.1",
 		"jquery": ">=3.0.0",
 		"font-awesome": ">=5.0.0",
@@ -15,8 +16,7 @@
 		"mmenu-js": "~7.3.2",
 		"datatables": "latest",
 		"chosen": "latest",
-		"spyc": "mustangostang/spyc",
-		"@chrisblakley/nebula": "latest",
+		"@mustangostang/spyc": "latest",
 		"@TGMPA/TGM-Plugin-Activation": "latest",
 		"@YahnisElsts/plugin-update-checker": "latest",
 		"@matomo-org/device-detector": "latest"
