@@ -1,0 +1,16 @@
+{
+	"name": "Package Test",
+	"description": "This is just a test of Package JSON in Github",
+	"version": "0.0.1",
+	"homepage": "https://gearside.com/",
+	"repository": "github:chrisblakley/packagetest",
+	"bugs": "https://github.com/chrisblakley/packagetest/issues",
+	"dependencies": {
+		"workbox": "^0.0.0",
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"not ie <= 10"
+	]
+}
