@@ -7,6 +7,7 @@
 	"bugs": "https://github.com/chrisblakley/packagetest/issues",
 	"dependencies": {
 		"workbox": "^0.0.0",
+		"jquery": "^3.3.1",
 	},
 	"browserslist": [
 		"> 1%",
