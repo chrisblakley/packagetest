@@ -15,8 +15,8 @@
 		"mmenu-js": "~7.3.2",
 		"datatables": "latest",
 		"chosen": "latest",
-		"@mustangostang/spyc": "latest",
-		"@leafo/scssphp": "latest",
+		"spyc": "mustangostang/spyc",
+		"scssphp": "leafo/scssphp",
 		"@TGMPA/TGM-Plugin-Activation": "latest",
 		"@YahnisElsts/plugin-update-checker": "latest",
 		"@matomo-org/device-detector": "latest"
