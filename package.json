@@ -16,10 +16,12 @@
 		"datatables": "latest",
 		"chosen": "latest",
 		"spyc": "mustangostang/spyc",
-		"scssphp": "leafo/scssphp",
 		"@TGMPA/TGM-Plugin-Activation": "latest",
 		"@YahnisElsts/plugin-update-checker": "latest",
 		"@matomo-org/device-detector": "latest"
+	},
+	"devDependencies": {
+		"@leafo/scssphp": "latest"
 	},
 	"browserslist": [
 		"> 1%",
