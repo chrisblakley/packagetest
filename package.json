@@ -6,9 +6,20 @@
 	"repository": "github:chrisblakley/packagetest",
 	"bugs": "https://github.com/chrisblakley/packagetest/issues",
 	"dependencies": {
-		"workbox": "^0.0.0",
-		"jquery": "^3.3.1",
-		"font-awesome": "4.7.0"
+		"workbox": ">=4.3.1",
+		"jquery": ">=3.0.0",
+		"font-awesome": ">=5.0.0",
+		"bootstrap": "^4.3.1",
+		"jquery-ui": "^1.12.1",
+		"autotrack": "*",
+		"mmenu-js": "~7.3.2",
+		"datatables": "*",
+		"chosen": "*",
+		"spyc": "^0.0.0",
+		"@leafo/scssphp": "*",
+		"@TGMPA/TGM-Plugin-Activation": "*",
+		"@YahnisElsts/plugin-update-checker": "*",
+		"@matomo-org/device-detector": "*"
 	},
 	"browserslist": [
 		"> 1%",
