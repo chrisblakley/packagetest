@@ -21,13 +21,13 @@
 		"mmenu-js": "~7.3.2",
 		"datatables": "latest",
 		"chosen": "latest",
-		"@mustangostang/spyc": "latest",
-		"@TGMPA/TGM-Plugin-Activation": "latest",
-		"@YahnisElsts/plugin-update-checker": "latest",
-		"@matomo-org/device-detector": "latest"
+		"mustangostang/spyc": "latest",
+		"TGMPA/TGM-Plugin-Activation": "latest",
+		"YahnisElsts/plugin-update-checker": "latest",
+		"matomo-org/device-detector": "latest"
 	},
 	"devDependencies": {
-		"@leafo/scssphp": "latest"
+		"leafo/scssphp": "latest"
 	},
 	"browserslist": [
 		"> 1%",
