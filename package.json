@@ -1,12 +1,17 @@
 {
-	"name": "Package Test",
+	"name": "package-test",
 	"description": "This is just a test of Package JSON in Github",
 	"version": "0.0.1",
 	"homepage": "https://gearside.com/",
-	"repository": "github:chrisblakley/packagetest",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/chrisblakley/packagetest.git"
+	},
 	"bugs": "https://github.com/chrisblakley/packagetest/issues",
 	"dependencies": {
 		"@chrisblakley/nebula": "latest",
+		"chrisblakley/nebula": "latest",
+		"nebula": "latest",
 		"workbox": ">=4.3.1",
 		"jquery": ">=3.0.0",
 		"font-awesome": ">=5.0.0",
